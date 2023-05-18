@@ -131,6 +131,16 @@ img {
   transition:color var(--hover-animation);
 }
 
+.nav-link-decoration::after{
+  content:"";
+  display: block;
+  width: 48px;
+  height: 4px;
+  background-color: #404BBF;
+  border-radius: 2px;
+  
+}
+
 .nav-link-container {
   padding: 24px 0;
 }
