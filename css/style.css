@@ -563,7 +563,7 @@ gap: 16px;
   gap: 24px;
   justify-content: center;
 }
-
+/*  */
 .filter-btn {
   background-color: var(--bckg-color-btn-portfolio);
   font-family: "Roboto", sans-serif;
